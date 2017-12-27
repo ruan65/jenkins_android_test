@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#fff"
+    android:background="#000010"
     tools:context="org.premiumapp.jenkinstest.MainActivity">
 
     <TextView
@@ -15,7 +15,7 @@
         android:layout_marginTop="8dp"
         android:text="Демонстрация удаленного изменения Андроид приложения"
         android:textColor="#000"
-        android:textSize="20dp"
+        android:textSize="40dp"
         android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
